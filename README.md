@@ -1,0 +1,2 @@
+# bingo
+Bingo App resources
